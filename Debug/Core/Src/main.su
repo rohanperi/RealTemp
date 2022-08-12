@@ -1,0 +1,15 @@
+../Core/Src/main.c:60:5:main	16	static
+../Core/Src/main.c:99:6:TempSensorTask	48	static
+../Core/Src/main.c:152:6:LedUpdateTask	32	static
+../Core/Src/main.c:180:6:reset_LED	8	static
+../Core/Src/main.c:193:6:led_Updater	16	static
+../Core/Src/main.c:213:5:uart3_write	16	static
+../Core/Src/main.c:222:5:__io_putchar	16	static
+../Core/Src/main.c:227:6:SystemClock_Config	88	static
+../Core/Src/main.c:280:13:MX_ETH_Init	8	static
+../Core/Src/main.c:324:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:367:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:397:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:427:13:MX_GPIO_Init	64	static
+../Core/Src/main.c:515:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:528:6:Error_Handler	4	static,ignoring_inline_asm
