@@ -8,10 +8,10 @@ A series of LEDs that tell you how warm your room is - Made with an STM32F7, TMP
 
 # Installation
  
-1. Clone the repository by doing ```git clone https://github.com/rohanperi/RealTemp.git``` in your respective terminal.
-2. Make sure you have ST Cube MX IDE 
-3. Have your Microcontroller ready, I used an STM32F767 but others from ST can work too!
-4. Open this project in Cube MX, making sure your MCU is connected to your PC, then run the code
+1. Clone the repository by doing ```git clone https://github.com/rohanperi/RealTemp.git``` in your terminal.
+2. Make sure you have ST Cube MX IDE: https://www.st.com/en/development-tools/stm32cubeide.html 
+3. Have your Microcontroller (MCU) ready, I used an STM32F767 but other MCUs from ST can work too!
+4. Open this project in Cube MX, making sure your MCU is connected to your PC, then build and run the code
 
 # Usage
 
@@ -19,9 +19,12 @@ In order to see useful outputs, you must create the circuit:
 
 ![RealTemp](https://user-images.githubusercontent.com/21014451/187785385-76615142-3646-4cf1-8b4d-174c90cde3ea.jpg)
 
+This video can be used to help wire the TMP102 Sensor: https://www.youtube.com/watch?v=isOekyygpR8
+
 Parts:
 
-https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html 
+MCU: https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html 
 
-https://www.sparkfun.com/products/13314
+TMP102 Sensor: https://www.sparkfun.com/products/13314
+
 
