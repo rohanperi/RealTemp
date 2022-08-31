@@ -20,6 +20,8 @@ In order to see useful outputs, you must create the circuit:
 ![RealTemp](https://user-images.githubusercontent.com/21014451/187785385-76615142-3646-4cf1-8b4d-174c90cde3ea.jpg)
 
 Parts:
+
 https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html 
+
 https://www.sparkfun.com/products/13314
 
