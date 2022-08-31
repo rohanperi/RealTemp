@@ -6,6 +6,8 @@
 
 A series of LEDs that tell you how warm your room is - Made with an STM32F7, TMP102 sensor, I2C, and FreeRTOS
 
+Demo - https://drive.google.com/file/d/1CxCEilgngU1GPsF856IsTzhS2-I3HScR/view
+
 # Installation
  
 1. Clone the repository by doing ```git clone https://github.com/rohanperi/RealTemp.git``` in your terminal.
