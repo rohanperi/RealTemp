@@ -21,7 +21,7 @@ In order to see useful outputs, you must create the circuit:
 
 This video can be used to help wire the TMP102 Sensor: https://www.youtube.com/watch?v=isOekyygpR8
 
-Parts:
+# Parts
 
 MCU: https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html 
 
